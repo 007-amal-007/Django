@@ -1,0 +1,5 @@
+name = print(input(" enter your name "))
+collgeName =input(" enter your college name ")
+yOfPass = input(" enter the year ")
+print(name,"\n",collgeName,"\n",yOfPass)
+print("your name is ::",name)
