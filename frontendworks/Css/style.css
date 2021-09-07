@@ -1,0 +1,18 @@
+h1 {
+    color:red;
+}
+h2{
+    color: hsla(98, 100%, 46%, 0.938);
+}
+#h2one
+{
+    color: coral;
+}
+#h2two
+{
+    color: crimson;
+}
+#h2three
+{
+    color: cornflowerblue;
+}
